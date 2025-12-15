@@ -49,3 +49,5 @@ Thumbs.db
 google-cloud-key.json
 service-account-key.json
 *.json.enc
+
+ocr-ai-agent.json
