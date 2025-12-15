@@ -7,7 +7,8 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir flask==3.0.0
+RUN pip install --no-cache-dir google-adk==1.21.0
 
 COPY src/ ./src/
 

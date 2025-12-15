@@ -3,7 +3,6 @@ flask==3.0.0
 python-dotenv==1.2.1
 
 # Google AI
-google-generativeai==0.7.2
 google-adk==1.21.0
 
 # HTTP & async
