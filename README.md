@@ -366,3 +366,4 @@ cat .env
 python -c "import bielik_composer; print('OK')"
 ```
 # Repository update
+# Deployment v2
