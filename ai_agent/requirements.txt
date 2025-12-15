@@ -1,20 +1,4 @@
-# Core
-flask==3.0.0
-python-dotenv==1.2.1
-
-# Google AI
-google-adk==1.21.0
-
-# HTTP & async
-requests==2.32.5
-aiohttp==3.13.2
-httpx==0.28.1
-
-# Data validation
-pydantic==2.12.5
-
-# Development
-black==25.12.0
-pylint==4.0.4
-pytest==9.0.2
-isort==7.0.0
+Flask==3.0.3
+google-adk-agents
+google-cloud-aiplatform
+google-cloud-run
