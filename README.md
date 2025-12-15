@@ -365,3 +365,4 @@ cat .env
 # Sprawdzenie połączenia
 python -c "import bielik_composer; print('OK')"
 ```
+# Repository update
