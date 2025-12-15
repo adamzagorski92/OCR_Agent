@@ -17,6 +17,7 @@ sudo apt update
 ### Step 3
 
 ```
+sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install -y python3.13 python3.13-venv python3.13-dev python3-pip
 ```
 
